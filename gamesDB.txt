@@ -1,0 +1,29 @@
+1 ConsoleGame Cyberpunk_2077 RPG CD_Project_RED 29.99 18 10/20/2020 English,French,German,Italian,Spanish,Korean 1 true false 2 60 true MENA Arabic Dinar  
+10 ConsoleGame Counter-Strike Shooter Valve 9.99 18 10/20/2020 English,French,German,Italian,Spanish,Korean 32 true false 2 60 true MENA Arabic Dinar
+40 VRGame VR_Chat Shooter VR_Chat_Interactive 4.99 14 12/20/2020 English,French,German,Italian,Spanish 32 false null 10 oneRoom true
+740 VRGame The_Elder_Scrolls_V:_Skyrim_VR RPG Bethesda 24.99 18 10/17/2017 English,German,Chinese,Spanish 1 false null 55 OpenWorld false
+20 ConsoleGame Team_Fortress_Classic Action Valve 4.99 0 10/23/2000 English,French,German,Italian,Spanish 15 true false 2 60 true MENA Arabic Dinar
+30 ConsoleGame NBA_2K23 Sport 2K_Interactive 59.99 0 9/20/2020 English,French,German,Italian,Spanish 1 true false 2 60 true MENA Arabic Dinar
+50 ConsoleGame Half-Life:_Opposing_Force Shooter Valve 4.99 0 8/20/2020 English,French,German,Korean 1 true false 2 60 true Asia Turkish Lira
+70 ConsoleGame Half-Life Shooter Valve 9.99 18 10/23/2000 English,French,German,Italian,Spanish 12 true false 2 60 true Asia Turkish Lira
+80 ConsoleGame Counter-Strike:_Condition_Zero Shooter Valve 9.99 18 9/20/2020 English,French,German,Italian,Spanish 3 true false 2 60 true Asia Turkish Lira
+130 ConsoleGame Half-Life:_Blue_Shift Shooter Valve 4.99 0 12/20/2020 English,French,German 12 true false 2 60 true Asia Turkish Lira
+220 ConsoleGame Half-Life_2 Shooter Valve 9.99 18 8/20/2020 English,French,German,Italian,Korean 5 true false 2 128 true NA English Dollar
+240 ConsoleGame Counter-Strike:_Source Shooter Valve 19.99 18 10/20/2020 English,French,German,Italian,Japanese 1 true false 2 128 true NA English Dollar
+280 ConsoleGame Half-Life:_Source Shooter Valve 9.99 18 10/20/2020 English,French,German,Italian,Japanese 1 true false 2 128 true NA English Dollar
+300 ConsoleGame Day_of_Defeat:_Source Action Valve 9.99 0 10/23/2000 English 1 true false 2 128 true NA English Dollar
+320 ConsoleGame Half-Life_2:_Deathmatch Shooter Valve 4.99 0 9/20/2020 English 32 true false 2 128 true NA English Dollar
+340 ConsoleGame Half-Life_2:_Lost_Coast Shooter Valve 0 0 12/20/2020 English,French,German,Italian,Spanish 64 true false 2 120 true Europe German Euro
+360 ConsoleGame Half-Life_Deathmatch:_Source Shooter Valve 9.99 0 8/20/2020 English 128 true false 2 120 true Europe German Euro
+380 ConsoleGame Half-Life_2:_Episode_One Shooter Valve 7.99 0 10/20/2020 English,French,German,Italian 1 true false 2 120 true Europe German Euro
+400 ConsoleGame Portal Platform Valve 9.99 18 10/20/2020 English,French,German,Russian 1 true false 2 120 true Europe German Euro
+420 ConsoleGame Half-Life_2:_Episode_Two Shooter Valve 7.99 0 10/20/2020 English,French,German,Russian 1 true false 2 120 true Europe German Euro
+440 ConsoleGame Team_Fortress_2 Shooter Valve 0 0 10/23/2000 English,Danish,Dutch,Finnish 32 true false 2 120 true Europe German Euro
+500 ConsoleGame Left_4_Dead Horror Valve 19.99 0 9/20/2020 English,French,German,Spanish,Russian 64 true false 2 120 true Europe German Euro
+550 ConsoleGame Left_4_Dead_2 Horror Valve 19.99 0 12/20/2020 Danish,Dutch,English,Finnish,French,German 128 true false 2 30 true Europe French Euro
+570 ConsoleGame Dota_2 MOBA Valve 0 18 8/20/2020 Bulgarian,Czech,Danish,Dutch,English 1 true false 2 30 true Europe French Euro
+620 ConsoleGame Portal_2 Platform Valve 19.99 0 10/20/2020 English,French,German,Spanish,Czech 1 true false 2 30 true Europe French Euro
+730 ConsoleGame Counter-Strike:_Global_Offensive Action Valve 14.99 0 10/20/2020 Czech,Danish,Dutch,English,Finnish 32 true false 2 30 true Europe French Euro
+630 TabletopGame Monopoly Dice Hasbro 30.99 8 10/20/2020 English,Russian 8 120.0 Medium false
+640 TabletopGame UNO Card Hasbro 14.89 0 10/20/1998 Turkish,English 4 60.0 Easy false
+650 TabletopGame RISK Strategy SMG 54.99 16 12/12/2005 English,Russian,German 6 180.5 Hard true
