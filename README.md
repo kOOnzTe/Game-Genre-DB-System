@@ -6,6 +6,12 @@
 ## Contributors
 Alper Çelik, Davut Durmaz and Doruk Akabay.
 
+# How Have I Contributed to This Project?
+-	Took data from steamdb.info to a CSV file using Python, then converted it to a txt file.
+-	Wrote an algorithm in Java to add games into the database according to their type using multiple frames and complex options.
+-	Utilized necessary Data Structures into system Java file using Object Oriented Programming. Wrote necessary GUI (JFrame) implementations for searching, displaying, removing, and adding games to the database.
+
+
 ## UML Class Diagram
 ![](https://github.com/Game-Genre-DB-System/Your_GIF_Name.gif)
 <img width="833" alt="0" src="https://user-images.githubusercontent.com/53222156/212547389-ddad386d-6cd2-481c-a906-cc32b4087599.png">
